@@ -1,15 +1,5 @@
 {% if site.enable_google_verification or site.enable_bing_verification %}
   <!-- Website verification -->
-  <!-- Google tag (gtag.js); Added by FZZ on 2024-10-28 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BL0KXEDMGR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-BL0KXEDMGR');
-  </script>
-  <!-- END Google tag (gtag.js) -->
   {% if site.enable_google_verification %}
     <meta name="google-site-verification" content="{{ site.google_site_verification }}">
   {% endif %}
