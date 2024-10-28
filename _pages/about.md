@@ -1,25 +1,24 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <i>for data analysis, AI and machine learning in healthcare.</i>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: deepmed_logo_20241027.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href="mailto:deepmedanalytics@gmail.com">DeepMedAnalytics@gmail.com</a></p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to DeepMed Analytics, where innovation meets precision in diagnostics and therapeutics. Founded by a team with deep expertise in clinical AI, biomedicine, and genomics, DeepMed Analytics is committed to transforming healthcare through data-driven insights. Our focus is on decoding complex biological and clinical data to unlock new potential in diagnostics, bioinformatics, and genomics, providing our clients with actionable intelligence that accelerates the path from discovery to patient care.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Our team combines unique backgrounds in clinical trial design, human genetics, biostatistics, and computational biology, allowing us to deliver customized solutions for drug development, diagnostics, and precision medicine. With experience spanning clinical trial analytics to AI-driven biomarker discovery, DeepMed Analytics is a trusted partner for biotech companies, healthcare organizations, and research institutions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+From predictive modeling to genomic data analysis, DeepMed Analytics empowers healthcare professionals to make informed decisions. Together, we are building a future where personalized care and advanced diagnostics redefine the standards of patient care. Let us help you navigate the complexities of healthcare innovation.
+
