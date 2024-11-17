@@ -5,7 +5,7 @@ permalink: /portfolio/
 description:
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Clinical AI, Clinical Trial]
 horizontal: false
 ---
 
