@@ -6,7 +6,7 @@ subtitle: <i>for data analysis, AI and machine learning in healthcare.</i>
 
 profile:
   align: right
-  image: deepmed_logo_20241027.jpg
+  image: deepmed_logo_20250527.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><a href="mailto:deepmedanalytics@gmail.com">DeepMedAnalytics@gmail.com</a></p>
