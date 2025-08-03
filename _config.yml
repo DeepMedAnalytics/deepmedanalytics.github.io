@@ -250,6 +250,7 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
+  - google292f9d70b1e55926.html
 
 # Plug-ins
 plugins:
